@@ -21,7 +21,7 @@ OJ3031 - [LEARNING LOGS] Ink
 OJ submission ID ถ้ามีการส่งแล้ว:
 
 ```text
-3031
+594423
 ```
 
 สถานะ OJ:
